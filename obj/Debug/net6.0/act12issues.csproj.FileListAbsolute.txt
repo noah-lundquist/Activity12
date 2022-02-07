@@ -1,0 +1,15 @@
+C:\Users\noahl\source\repos\act12issues\bin\Debug\net6.0\act12issues.exe
+C:\Users\noahl\source\repos\act12issues\bin\Debug\net6.0\act12issues.deps.json
+C:\Users\noahl\source\repos\act12issues\bin\Debug\net6.0\act12issues.runtimeconfig.json
+C:\Users\noahl\source\repos\act12issues\bin\Debug\net6.0\act12issues.dll
+C:\Users\noahl\source\repos\act12issues\bin\Debug\net6.0\ref\act12issues.dll
+C:\Users\noahl\source\repos\act12issues\bin\Debug\net6.0\act12issues.pdb
+C:\Users\noahl\source\repos\act12issues\obj\Debug\net6.0\act12issues.csproj.AssemblyReference.cache
+C:\Users\noahl\source\repos\act12issues\obj\Debug\net6.0\act12issues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noahl\source\repos\act12issues\obj\Debug\net6.0\act12issues.AssemblyInfoInputs.cache
+C:\Users\noahl\source\repos\act12issues\obj\Debug\net6.0\act12issues.AssemblyInfo.cs
+C:\Users\noahl\source\repos\act12issues\obj\Debug\net6.0\act12issues.csproj.CoreCompileInputs.cache
+C:\Users\noahl\source\repos\act12issues\obj\Debug\net6.0\act12issues.dll
+C:\Users\noahl\source\repos\act12issues\obj\Debug\net6.0\ref\act12issues.dll
+C:\Users\noahl\source\repos\act12issues\obj\Debug\net6.0\act12issues.pdb
+C:\Users\noahl\source\repos\act12issues\obj\Debug\net6.0\act12issues.genruntimeconfig.cache
